@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A011D4A12242C466008756BF /* rabbit.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A011D4A02242C466008756BF /* rabbit.jpeg */; };
-		A011D4A32242C474008756BF /* fox.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A011D4A22242C474008756BF /* fox.jpeg */; };
+		A00A1F2422436F4A00054035 /* fox.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A00A1F2022436F4A00054035 /* fox.jpeg */; };
+		A00A1F2522436F4A00054035 /* cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A00A1F2122436F4A00054035 /* cat.jpg */; };
+		A00A1F2622436F4A00054035 /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A00A1F2222436F4A00054035 /* dog.jpg */; };
+		A00A1F2722436F4A00054035 /* cow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A00A1F2322436F4A00054035 /* cow.jpg */; };
+		A00A1F2922436F7300054035 /* rabbit.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A00A1F2822436F7300054035 /* rabbit.jpeg */; };
 		A032158122415B4E0013F3E8 /* AnimalTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A032158022415B4E0013F3E8 /* AnimalTableViewCell.m */; };
-		A032158522417B150013F3E8 /* cow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A032158222417B150013F3E8 /* cow.jpg */; };
-		A032158622417B150013F3E8 /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A032158322417B150013F3E8 /* dog.jpg */; };
-		A032158722417B150013F3E8 /* cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A032158422417B150013F3E8 /* cat.jpg */; };
 		A0829A1F224147C000021501 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A0829A1E224147C000021501 /* AppDelegate.m */; };
 		A0829A22224147C000021501 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0829A21224147C000021501 /* ViewController.m */; };
 		A0829A27224147C200021501 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0829A26224147C200021501 /* Assets.xcassets */; };
@@ -21,13 +21,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A011D4A02242C466008756BF /* rabbit.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rabbit.jpeg; path = ../../rabbit.jpeg; sourceTree = "<group>"; };
-		A011D4A22242C474008756BF /* fox.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fox.jpeg; path = ../../fox.jpeg; sourceTree = "<group>"; };
+		A00A1F2022436F4A00054035 /* fox.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fox.jpeg; sourceTree = "<group>"; };
+		A00A1F2122436F4A00054035 /* cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat.jpg; sourceTree = "<group>"; };
+		A00A1F2222436F4A00054035 /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog.jpg; sourceTree = "<group>"; };
+		A00A1F2322436F4A00054035 /* cow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cow.jpg; sourceTree = "<group>"; };
+		A00A1F2822436F7300054035 /* rabbit.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rabbit.jpeg; sourceTree = "<group>"; };
 		A032157F22415B4E0013F3E8 /* AnimalTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnimalTableViewCell.h; sourceTree = "<group>"; };
 		A032158022415B4E0013F3E8 /* AnimalTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimalTableViewCell.m; sourceTree = "<group>"; };
-		A032158222417B150013F3E8 /* cow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cow.jpg; path = ../../cow.jpg; sourceTree = "<group>"; };
-		A032158322417B150013F3E8 /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dog.jpg; path = ../../dog.jpg; sourceTree = "<group>"; };
-		A032158422417B150013F3E8 /* cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cat.jpg; path = ../../cat.jpg; sourceTree = "<group>"; };
 		A0829A1A224147C000021501 /* UITableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0829A1D224147C000021501 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A0829A1E224147C000021501 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -69,11 +69,11 @@
 		A0829A1C224147C000021501 /* XXXXX */ = {
 			isa = PBXGroup;
 			children = (
-				A011D4A22242C474008756BF /* fox.jpeg */,
-				A011D4A02242C466008756BF /* rabbit.jpeg */,
-				A032158422417B150013F3E8 /* cat.jpg */,
-				A032158222417B150013F3E8 /* cow.jpg */,
-				A032158322417B150013F3E8 /* dog.jpg */,
+				A00A1F2822436F7300054035 /* rabbit.jpeg */,
+				A00A1F2122436F4A00054035 /* cat.jpg */,
+				A00A1F2322436F4A00054035 /* cow.jpg */,
+				A00A1F2222436F4A00054035 /* dog.jpg */,
+				A00A1F2022436F4A00054035 /* fox.jpeg */,
 				A0829A1D224147C000021501 /* AppDelegate.h */,
 				A0829A1E224147C000021501 /* AppDelegate.m */,
 				A0829A20224147C000021501 /* ViewController.h */,
@@ -145,13 +145,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A032158722417B150013F3E8 /* cat.jpg in Resources */,
-				A032158622417B150013F3E8 /* dog.jpg in Resources */,
-				A032158522417B150013F3E8 /* cow.jpg in Resources */,
-				A011D4A32242C474008756BF /* fox.jpeg in Resources */,
-				A011D4A12242C466008756BF /* rabbit.jpeg in Resources */,
 				A0829A2A224147C200021501 /* LaunchScreen.storyboard in Resources */,
+				A00A1F2622436F4A00054035 /* dog.jpg in Resources */,
 				A0829A27224147C200021501 /* Assets.xcassets in Resources */,
+				A00A1F2922436F7300054035 /* rabbit.jpeg in Resources */,
+				A00A1F2722436F4A00054035 /* cow.jpg in Resources */,
+				A00A1F2522436F4A00054035 /* cat.jpg in Resources */,
+				A00A1F2422436F4A00054035 /* fox.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
